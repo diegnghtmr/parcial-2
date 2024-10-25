@@ -1,0 +1,9 @@
+E001##Juan Pérez##Recursos Humanos##Reclutamiento Digital##P002
+E002##María García##Finanzas##Implementación ERP##P001
+E003##Carlos Hernández##Tecnología##Infraestructura de Red##P003
+E004##Ana Martínez##Marketing##Campaña Publicitaria 2024##P004
+E005##Luis Ramírez##Tecnología##Desarrollo Aplicación Móvil##P005
+E003##Carlos##Recursos Humanos##Desarrollo Aplicación Móvil##P005
+E002##María##Finanzas##Implementación ERP##P001
+E001##Juan##Ventas##Campaña Publicitaria 2024##P004
+E002##María##Recursos Humanos##Reclutamiento Digital##P002

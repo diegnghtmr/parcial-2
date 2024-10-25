@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="21.0.4" class="java.beans.XMLDecoder">
+ <object class="co.edu.uniquindio.programacion3.parcial2.parcial2.archivos.Gestion" id="Gestion0">
+  <void property="listaAsignación">
+   <void method="add">
+    <object class="co.edu.uniquindio.programacion3.parcial2.parcial2.archivos.Asignación">
+     <void property="idEmpleado">
+      <string>E001</string>
+     </void>
+     <void property="idProyecto">
+      <string>P002</string>
+     </void>
+     <void property="nombreDepartamento">
+      <string>Recursos Humanos</string>
+     </void>
+     <void property="nombreEmpleado">
+      <string>Juan Pérez</string>
+     </void>
+     <void property="nombreProyecto">
+      <string>Reclutamiento Digital</string>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="co.edu.uniquindio.programacion3.parcial2.parcial2.archivos.Asignación">
+     <void property="idEmpleado">
+      <string>E002</string>
+     </void>
+     <void property="idProyecto">
+      <string>P001</string>
+     </void>
+     <void property="nombreDepartamento">
+      <string>Finanzas</string>
+     </void>
+     <void property="nombreEmpleado">
+      <string>María García</string>
+     </void>
+     <void property="nombreProyecto">
+      <string>Implementación ERP</string>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="co.edu.uniquindio.programacion3.parcial2.parcial2.archivos.Asignación">
+     <void property="idEmpleado">
+      <string>E003</string>
+     </void>
+     <void property="idProyecto">
+      <string>P003</string>
+     </void>
+     <void property="nombreDepartamento">
+      <string>Tecnología</string>
+     </void>
+     <void property="nombreEmpleado">
+      <string>Carlos Hernández</string>
+     </void>
+     <void property="nombreProyecto">
+      <string>Infraestructura de Red</string>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="co.edu.uniquindio.programacion3.parcial2.parcial2.archivos.Asignación">
+     <void property="idEmpleado">
+      <string>E004</string>
+     </void>
+     <void property="idProyecto">
+      <string>P004</string>
+     </void>
+     <void property="nombreDepartamento">
+      <string>Marketing</string>
+     </void>
+     <void property="nombreEmpleado">
+      <string>Ana Martínez</string>
+     </void>
+     <void property="nombreProyecto">
+      <string>Campaña Publicitaria 2024</string>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="co.edu.uniquindio.programacion3.parcial2.parcial2.archivos.Asignación">
+     <void property="idEmpleado">
+      <string>E005</string>
+     </void>
+     <void property="idProyecto">
+      <string>P005</string>
+     </void>
+     <void property="nombreDepartamento">
+      <string>Tecnología</string>
+     </void>
+     <void property="nombreEmpleado">
+      <string>Luis Ramírez</string>
+     </void>
+     <void property="nombreProyecto">
+      <string>Desarrollo Aplicación Móvil</string>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="co.edu.uniquindio.programacion3.parcial2.parcial2.archivos.Asignación">
+     <void property="idEmpleado">
+      <string>E003</string>
+     </void>
+     <void property="idProyecto">
+      <string>P005</string>
+     </void>
+     <void property="nombreDepartamento">
+      <string>Recursos Humanos</string>
+     </void>
+     <void property="nombreEmpleado">
+      <string>Carlos</string>
+     </void>
+     <void property="nombreProyecto">
+      <string>Desarrollo Aplicación Móvil</string>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="co.edu.uniquindio.programacion3.parcial2.parcial2.archivos.Asignación">
+     <void property="idEmpleado">
+      <string>E002</string>
+     </void>
+     <void property="idProyecto">
+      <string>P001</string>
+     </void>
+     <void property="nombreDepartamento">
+      <string>Finanzas</string>
+     </void>
+     <void property="nombreEmpleado">
+      <string>María</string>
+     </void>
+     <void property="nombreProyecto">
+      <string>Implementación ERP</string>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="co.edu.uniquindio.programacion3.parcial2.parcial2.archivos.Asignación">
+     <void property="idEmpleado">
+      <string>E001</string>
+     </void>
+     <void property="idProyecto">
+      <string>P004</string>
+     </void>
+     <void property="nombreDepartamento">
+      <string>Ventas</string>
+     </void>
+     <void property="nombreEmpleado">
+      <string>Juan</string>
+     </void>
+     <void property="nombreProyecto">
+      <string>Campaña Publicitaria 2024</string>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="co.edu.uniquindio.programacion3.parcial2.parcial2.archivos.Asignación">
+     <void property="idEmpleado">
+      <string>E002</string>
+     </void>
+     <void property="idProyecto">
+      <string>P002</string>
+     </void>
+     <void property="nombreDepartamento">
+      <string>Recursos Humanos</string>
+     </void>
+     <void property="nombreEmpleado">
+      <string>María</string>
+     </void>
+     <void property="nombreProyecto">
+      <string>Reclutamiento Digital</string>
+     </void>
+    </object>
+   </void>
+  </void>
+  <void property="listaDepartamento">
+   <void method="add">
+    <object class="co.edu.uniquindio.programacion3.parcial2.parcial2.archivos.Departamento">
+     <void property="descripcion">
+      <string>Responsable de la gestión del talento humano y la contratación</string>
+     </void>
+     <void property="idDepartamento">
+      <string>D01</string>
+     </void>
+     <void property="nombreDepartamento">
+      <string>Recursos Humanos</string>
+     </void>
+     <void property="ubicacion">
+      <string>Edificio A, Planta 2</string>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="co.edu.uniquindio.programacion3.parcial2.parcial2.archivos.Departamento">
+     <void property="descripcion">
+      <string>Manejo de presupuestos, nóminas y auditorías internas</string>
+     </void>
+     <void property="idDepartamento">
+      <string>D02</string>
+     </void>
+     <void property="nombreDepartamento">
+      <string>Finanzas</string>
+     </void>
+     <void property="ubicacion">
+      <string>Edificio B, Planta 3</string>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="co.edu.uniquindio.programacion3.parcial2.parcial2.archivos.Departamento">
+     <void property="descripcion">
+      <string>Encargado de la infraestructura tecnológica y desarrollo de software</string>
+     </void>
+     <void property="idDepartamento">
+      <string>D03</string>
+     </void>
+     <void property="nombreDepartamento">
+      <string>Tecnología</string>
+     </void>
+     <void property="ubicacion">
+      <string>Edificio C, Planta Baja</string>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="co.edu.uniquindio.programacion3.parcial2.parcial2.archivos.Departamento">
+     <void property="descripcion">
+      <string>Gestión de relaciones con clientes y ventas de productos</string>
+     </void>
+     <void property="idDepartamento">
+      <string>D04</string>
+     </void>
+     <void property="nombreDepartamento">
+      <string>Ventas</string>
+     </void>
+     <void property="ubicacion">
+      <string>Edificio D, Planta 1</string>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="co.edu.uniquindio.programacion3.parcial2.parcial2.archivos.Departamento">
+     <void property="descripcion">
+      <string>Planificación de campañas publicitarias y análisis de mercado</string>
+     </void>
+     <void property="idDepartamento">
+      <string>D05</string>
+     </void>
+     <void property="nombreDepartamento">
+      <string>Marketing</string>
+     </void>
+     <void property="ubicacion">
+      <string>Edificio E, Planta 4</string>
+     </void>
+    </object>
+   </void>
+  </void>
+  <void property="listaEmpleado">
+   <void method="add">
+    <object class="co.edu.uniquindio.programacion3.parcial2.parcial2.archivos.Empleado">
+     <void property="apellido">
+      <string>Pérez</string>
+     </void>
+     <void property="idDepartamento">
+      <string>D01</string>
+     </void>
+     <void property="idEmpleado">
+      <string>E001</string>
+     </void>
+     <void property="nombre">
+      <string>Juan</string>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="co.edu.uniquindio.programacion3.parcial2.parcial2.archivos.Empleado">
+     <void property="apellido">
+      <string>García</string>
+     </void>
+     <void property="idDepartamento">
+      <string>D02</string>
+     </void>
+     <void property="idEmpleado">
+      <string>E002</string>
+     </void>
+     <void property="nombre">
+      <string>María</string>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="co.edu.uniquindio.programacion3.parcial2.parcial2.archivos.Empleado">
+     <void property="apellido">
+      <string>Hernández</string>
+     </void>
+     <void property="idDepartamento">
+      <string>D01</string>
+     </void>
+     <void property="idEmpleado">
+      <string>E003</string>
+     </void>
+     <void property="nombre">
+      <string>Carlos</string>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="co.edu.uniquindio.programacion3.parcial2.parcial2.archivos.Empleado">
+     <void property="apellido">
+      <string>Martínez</string>
+     </void>
+     <void property="idDepartamento">
+      <string>D03</string>
+     </void>
+     <void property="idEmpleado">
+      <string>E004</string>
+     </void>
+     <void property="nombre">
+      <string>Ana</string>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="co.edu.uniquindio.programacion3.parcial2.parcial2.archivos.Empleado">
+     <void property="apellido">
+      <string>Ramírez</string>
+     </void>
+     <void property="idDepartamento">
+      <string>D02</string>
+     </void>
+     <void property="idEmpleado">
+      <string>E005</string>
+     </void>
+     <void property="nombre">
+      <string>Luis</string>
+     </void>
+    </object>
+   </void>
+  </void>
+  <void property="listaProyecto">
+   <void method="add">
+    <object class="co.edu.uniquindio.programacion3.parcial2.parcial2.archivos.Proyecto">
+     <void property="idDepartamento">
+      <string>D02</string>
+     </void>
+     <void property="idProyecto">
+      <string>P001</string>
+     </void>
+     <void property="nombreProyecto">
+      <string>Implementación ERP</string>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="co.edu.uniquindio.programacion3.parcial2.parcial2.archivos.Proyecto">
+     <void property="idDepartamento">
+      <string>D01</string>
+     </void>
+     <void property="idProyecto">
+      <string>P002</string>
+     </void>
+     <void property="nombreProyecto">
+      <string>Reclutamiento Digital</string>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="co.edu.uniquindio.programacion3.parcial2.parcial2.archivos.Proyecto">
+     <void property="idDepartamento">
+      <string>D03</string>
+     </void>
+     <void property="idProyecto">
+      <string>P003</string>
+     </void>
+     <void property="nombreProyecto">
+      <string>Infraestructura de Red</string>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="co.edu.uniquindio.programacion3.parcial2.parcial2.archivos.Proyecto">
+     <void property="idDepartamento">
+      <string>D05</string>
+     </void>
+     <void property="idProyecto">
+      <string>P004</string>
+     </void>
+     <void property="nombreProyecto">
+      <string>Campaña Publicitaria 2024</string>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="co.edu.uniquindio.programacion3.parcial2.parcial2.archivos.Proyecto">
+     <void property="idDepartamento">
+      <string>D03</string>
+     </void>
+     <void property="idProyecto">
+      <string>P005</string>
+     </void>
+     <void property="nombreProyecto">
+      <string>Desarrollo Aplicación Móvil</string>
+     </void>
+    </object>
+   </void>
+  </void>
+ </object>
+</java>

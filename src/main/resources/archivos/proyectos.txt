@@ -1,0 +1,5 @@
+P001$$Implementación ERP$$D02
+P002$$Reclutamiento Digital$$D01
+P003$$Infraestructura de Red$$D03
+P004$$Campaña Publicitaria 2024$$D05
+P005$$Desarrollo Aplicación Móvil$$D03

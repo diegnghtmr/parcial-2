@@ -1,0 +1,5 @@
+D01$$Recursos Humanos$$Responsable de la gestión del talento humano y la contratación$$Edificio A, Planta 2
+D02$$Finanzas$$Manejo de presupuestos, nóminas y auditorías internas$$Edificio B, Planta 3
+D03$$Tecnología$$Encargado de la infraestructura tecnológica y desarrollo de software$$Edificio C, Planta Baja
+D04$$Ventas$$Gestión de relaciones con clientes y ventas de productos$$Edificio D, Planta 1
+D05$$Marketing$$Planificación de campañas publicitarias y análisis de mercado$$Edificio E, Planta 4

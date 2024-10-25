@@ -1,0 +1,5 @@
+E001$$Juan$$Pérez$$D01
+E002$$María$$García$$D02
+E003$$Carlos$$Hernández$$D01
+E004$$Ana$$Martínez$$D03
+E005$$Luis$$Ramírez$$D02
